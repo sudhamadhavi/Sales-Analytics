@@ -1,5 +1,5 @@
-### AtliQ Hardwares Sales Performance and Financial Reports in Excel
-### Table of Contents
+## AtliQ Hardwares Sales Performance and Financial Reports in Excel
+## Table of Contents
 
 - [About AtliQ](#About-AtliQ)
 - [AtliQ Business Model](#AtliQ-Business-Model)
@@ -8,11 +8,11 @@
 - [Financial Analysis](#Financial-Analysis)
 - [Summary](#summary)
 
-### About AtliQ:
+## About AtliQ:
 
 AtliQ is a dynamic company that focuses on providing top-notch hardware solutions. We're all about offering innovative products that match what our customers need as things change. Our main goal is to make sure our customers are happy and satisfied with what we offer.
 
-### AtliQ Business Model
+## AtliQ Business Model
 
 AtliQ operates through several business models to maximize market reach and customer engagement:
 - Direct Sales: Selling products directly to consumers via our online platform.
@@ -20,10 +20,10 @@ AtliQ operates through several business models to maximize market reach and cust
 - B2B Sales: Offering tailored solutions and bulk sales to businesses.
 - International Expansion: Entering new markets to broaden our global footprint.
 
-### Problem Statement
+## Problem Statement
 AtliQ aims to enhance its sales performance and financial health by leveraging data-driven insights. The challenge lies in accurately analyzing sales data and financial reports to identify growth opportunities, optimize strategies, and improve overall efficiency.
 
-### Sales Analysis:
+## Sales Analysis:
 The purpose of sales analysis is to understand how well a company's products or services are selling, and why. It helps identify trends, patterns, and areas of improvement in the sales process. By analyzing sales data, businesses can make informed decisions to optimize strategies, increase revenue, and improve overall performance.
 
 Below is a summary of the Sales Analytics Report for AtliQ Hardware.
@@ -35,7 +35,7 @@ Below is a summary of the Sales Analytics Report for AtliQ Hardware.
 5. New Products Introduction in 2021: Determine which new products Atliq started selling in 2021. [New Products](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/New%20Products.pdf)
 6. Top 5 Sales Countries: List the five countries where we earned the most revenue in 2021. [Top 5 Countries](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Top%205%20Countries.pdf)
 
-### Financial Analysis:
+## Financial Analysis:
 The purpose of financial analysis for Atliq Hardware is to assess the company's financial health, performance, and viability. This involves examining various financial metrics and statements to make informed decisions, identify areas for improvement, and ensure sustainable growth and profitability.
 
 Below is a summary of the Financial Analytics Report for AtliQ Hardware.
@@ -43,7 +43,7 @@ Below is a summary of the Financial Analytics Report for AtliQ Hardware.
 1. Yearly Profit and Loss (P&L) Report: This report provides a detailed breakdown of our financial performance for each fiscal year, highlighting our revenue and expenses.[Yearly Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/P%26L%20Year.pdf)
 2. Quarterly Profit and Loss (P&L) Report:This report compares our financial performance for each quarter, revealing trends in our performance over the year.4. [Monthly Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/P%26L%20Quarters.pdf)
 
-Summary:
+## Summary:
 By integrating sales and financial analyses reports, Atliq can figure out discounts for customers,facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
@@ -82,10 +82,10 @@ By integrating sales and financial analyses reports, Atliq can figure out discou
 
 
 
-Technical and soft skills used for the project:
+# Technical and soft skills used for the project:
 
 
-### Technical Skills:
+## Technical Skills:
 
 1. Proficient in ETL methodology (Extract, Transform, Load).
 2. Skilled in creating date tables using Power Query.
@@ -94,7 +94,7 @@ Technical and soft skills used for the project:
 5. Experienced in integrating supplementary data into existing models.
 6. Familiar with using DAX to create calculated columns.
 
-### Soft Skills:
+## Soft Skills:
 
 1. Strong understanding of Sales & Finance Reports.
 2. Ability to design reports with the user in mind.
