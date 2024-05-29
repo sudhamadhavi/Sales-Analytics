@@ -1,4 +1,4 @@
-### AtliQ Hardwares Sales Performance and Financial Reports
+### AtliQ Hardwares Sales Performance and Financial Reports in Excel
 ### Table of Contents
 
 - [About AtliQ](#About-AtliQ)
@@ -6,7 +6,7 @@
 - [Problem Statement](#problem-statement)
 - [Sales Analysis](#sales-analysis)
 - [Financial Analysis](#Financial-Analysis)
-- [Overall Insights](#Overall-Insights)
+- [Summary](#summary)
 
 ### About AtliQ:
 
@@ -43,6 +43,63 @@ Below is a summary of the Financial Analytics Report for AtliQ Hardware.
 1. Yearly Profit and Loss (P&L) Report: This report provides a detailed breakdown of our financial performance for each fiscal year, highlighting our revenue and expenses.[Yearly Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/P%26L%20Year.pdf)
 2. Quarterly Profit and Loss (P&L) Report:This report compares our financial performance for each quarter, revealing trends in our performance over the year.4. [Monthly Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/P%26L%20Quarters.pdf)
 
+Summary:
+By integrating sales and financial analyses reports, Atliq can figure out discounts for customers,facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technical and soft skills used for the project:
+
+
+### Technical Skills:
+
+1. Proficient in ETL methodology (Extract, Transform, Load).
+2. Skilled in creating date tables using Power Query.
+3. Able to determine fiscal months and quarters.
+4. Capable of establishing data model relationships with Power Pivot.
+5. Experienced in integrating supplementary data into existing models.
+6. Familiar with using DAX to create calculated columns.
+
+### Soft Skills:
+
+1. Strong understanding of Sales & Finance Reports.
+2. Ability to design reports with the user in mind.
+3. Skilled in optimizing report generation.
+4. Capable of developing a systematic approach to report building.
 
 
 
