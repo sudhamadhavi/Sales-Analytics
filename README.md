@@ -28,8 +28,8 @@ The purpose of sales analysis is to understand how well a company's products or 
 
 Below is a summary of the Sales Analytics Report for AtliQ Hardware.
 
-1. Customer performance report:This report shows how much revenue we've made from our customers.  [Customer Performance Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
-2. Market performance report:It compares how well we're doing in the market with our sales goals.  [Market Performance Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
+1. Customer performance report: This report shows how much revenue we've made from our customers.  [Customer Performance Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+2. Market performance report: It compares how well we're doing in the market with our sales goals.  [Market Performance Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
 3. Top 10 Products Sales Growth: Identify which products saw the biggest increase in sales from 2020 to 2021. [Top 10 Product](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Top%2010%20Products.pdf)
 4. Division Sales Overview: Show how much money we made in 2020 and 2021, and how sales changed over time. [Division Sales](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Divison%20Level%20Report.pdf)
 5. New Products Introduction in 2021: Determine which new products Atliq started selling in 2021. [New Products](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/New%20Products.pdf)
@@ -41,7 +41,7 @@ The purpose of financial analysis for Atliq Hardware is to assess the company's 
 Below is a summary of the Financial Analytics Report for AtliQ Hardware.
 
 1. Yearly Profit and Loss (P&L) Report: This report provides a detailed breakdown of our financial performance for each fiscal year, highlighting our revenue and expenses.[Yearly Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/P%26L%20Year.pdf)
-2. Quarterly Profit and Loss (P&L) Report:This report compares our financial performance for each quarter, revealing trends in our performance over the year.4. [Monthly Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/P%26L%20Quarters.pdf)
+2. Quarterly Profit and Loss (P&L) Report: This report compares our financial performance for each quarter, revealing trends in our performance over the year.4. [Monthly Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/P%26L%20Quarters.pdf)
 
 ## Summary:
 By integrating sales and financial analyses reports, Atliq can figure out discounts for customers,facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
