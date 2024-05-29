@@ -28,11 +28,10 @@ The purpose of sales analysis is to understand how well a company's products or 
 
 1. Customer performance report:This report shows how much revenue we've made from our customers.  [Customer Performance Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 2. Market performance report:It compares how well we're doing in the market with our sales goals.  [Market Performance Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
-3. Top 10 Products Sales Growth: Identify which products saw the biggest increase in sales from 2020 to 2021.
-4. Division Sales Overview: Show how much money we made in 2020 and 2021, and how sales changed over time.
-5. Top and Bottom 5 Products Sold: Find out the five best-selling and least-selling products based on quantity.
-6. New Products Introduction in 2021: Determine which new products Atliq started selling in 2021.
-7. Top 5 Sales Countries: List the five countries where we earned the most revenue in 2021.
+3. Top 10 Products Sales Growth: Identify which products saw the biggest increase in sales from 2020 to 2021.[Top 10 Product](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Top%2010%20Products.pdf)
+4. Division Sales Overview: Show how much money we made in 2020 and 2021, and how sales changed over time.[Division Sales](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Divison%20Level%20Report.pdf)
+5. New Products Introduction in 2021: Determine which new products Atliq started selling in 2021.[New Products](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/New%20Products.pdf)
+6. Top 5 Sales Countries: List the five countries where we earned the most revenue in 2021.[Top 5 Countries](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Top%205%20Countries.pdf)
 
 
 
@@ -45,7 +44,5 @@ The purpose of sales analysis is to understand how well a company's products or 
 
 
 
-1. [Customer Performance Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
-2. [Market Performance Report](https://github.com/sudhamadhavi/Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
 3. [Profit and Loss (P&L) Yearly Report](#profit-and-loss-pl-yearly-report)
 4. [Profit and Loss (P&L) Monthly Report](#profit-and-loss-pl-monthly-report)
